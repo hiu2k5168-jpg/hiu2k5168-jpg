@@ -58,7 +58,7 @@ const myProfile = {
 ### 🎨 Frontend Development
   
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,redux,html,css,js,ts,tailwind,bootstrap,sass,materialui,webpack,vite&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,bootstrap&perline=8" />
 </p>
 
 ### ⚙️ Backend Development
