@@ -86,39 +86,7 @@
 
 <br/>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hiu2k5168-jpg&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=hiu2k5168-jpg&theme=react&hide_border=true&stroke=0d1117&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=10" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiu2k5168-jpg&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" alt="Most Used Languages" />
-  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=hiu2k5168-jpg&custom_title=Contribution%20Graph&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true&radius=10" alt="Activity Graph" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiu2k5168-jpg&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiu2k5168-jpg/hiu2k5168-jpg/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiu2k5168-jpg/hiu2k5168-jpg/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hiu2k5168-jpg/hiu2k5168-jpg/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
 
 ## 💼 Experience Highlights
 
