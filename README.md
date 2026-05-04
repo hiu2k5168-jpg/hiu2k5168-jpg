@@ -82,12 +82,6 @@
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 
-### 🏗️ Architecture & Patterns
-
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=microservices&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
 </div>
 
 <br/>
