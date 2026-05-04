@@ -31,7 +31,6 @@
 💼 **Vai trò:** Full-Stack Developer  
 ⚡ **Ngôn ngữ:** JavaScript, TypeScript, Python, Java, C#  
 🎯 **Mục tiêu hiện tại:** Xây dựng ứng dụng full-stack có khả năng mở rộng  
-☕ **Fun fact:** Biến cà phê thành code!
 
 <br/>
 
