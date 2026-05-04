@@ -43,7 +43,7 @@ const myProfile = {
             js: ["Node.js", "Express"]
         },
         mobile: ["React Native", "Flutter"],
-        databases: ["SQL Server"],
+        databases: ["SQL Server, My SQL"],
         aiml: ["Scikit-learn"]
     },
 };
@@ -70,7 +70,7 @@ const myProfile = {
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql&perline=8" />
 </p>
 
 ### 🔧 Tools & Platforms
