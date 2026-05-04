@@ -27,26 +27,12 @@
 ## 🎯 Giới Thiệu / About Me
 
 ```javascript
-const myProfile = {
-    name: "Trần Minh Hiếu",
-    location: "Hanoi, Vietnam 🇻🇳",
-    role: "Full-Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            python: ["Flask"],
-            csharp: [".NET", "ASP.NET Core"],
-            js: ["Node.js", "Express"]
-        },
-        mobile: ["React Native", "Flutter"],
-        databases: ["SQL Server, My SQL"],
-        aiml: ["Scikit-learn"]
-    },
-};
+   👨‍💻 Tên: Trần Minh Hiếu
+   📍 Địa điểm: Hà Nội, Việt Nam
+   💼 Vai trò: Full-Stack Developer
+   ⚡ Ngôn ngữ: JavaScript, TypeScript, Python, Java, C#
+   🎯 Mục tiêu: Xây dựng ứng dụng full-stack
+   ☕ Fun fact: Biến cà phê thành code!
 ```
 
 <br/>
@@ -76,7 +62,7 @@ const myProfile = {
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,linux,bash,vim,gradle&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,&perline=8" />
 </p>
 
 </div>
