@@ -34,23 +34,18 @@ const myProfile = {
     code: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue.js", "Angular"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
+            js: ["React"],
+            css: ["Bootstrap", "Material-UI"]
         },
         backEnd: {
-            python: ["Django", "Flask"],
-            java: ["Spring Boot"],
+            python: ["Flask"],
             csharp: [".NET", "ASP.NET Core"],
             js: ["Node.js", "Express"]
         },
         mobile: ["React Native", "Flutter"],
-        databases: ["MySQL", "MongoDB", "PostgreSQL", "Redis"],
-        cloud: ["AWS", "Google Cloud", "Docker", "Kubernetes"],
-        aiml: ["TensorFlow", "PyTorch", "Scikit-learn"]
+        databases: ["SQL Server"],
+        aiml: ["Scikit-learn"]
     },
-    architecture: ["Microservices", "Event-Driven", "RESTful API", "GraphQL"],
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
 
