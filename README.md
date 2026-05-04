@@ -64,13 +64,13 @@ const myProfile = {
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cs,nodejs,express,spring,django,flask,dotnet,fastapi&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,nodejs,dotnet,fastapi&perline=8" />
 </p>
 
-### 🗄️ Database & Cloud
+### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,aws,gcp,docker,kubernetes,nginx&perline=8" />
+  <img src="https://skillicons.dev/icons?i=sqlserver&perline=8" />
 </p>
 
 ### 🔧 Tools & Platforms
