@@ -111,51 +111,6 @@ Technical Skills:
 
 <br/>
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-</div>
-
-<br/>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-I'm always excited to collaborate on interesting projects or discuss new technologies. Feel free to reach out!
-
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cohoaiha@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cohoaiha/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiu2k5168-jpg)
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-### 💬 Ask me about
-  
-`Full-Stack Development` • `Cloud Architecture` • `Mobile Apps` • `AI/ML` • `System Design`
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  
-### ⚡ Fun Fact
-
-**I believe in learning by doing. Every bug is a lesson, every feature is a challenge! 🚀**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-**"First, solve the problem. Then, write the code."** - John Johnson
 
 <br/>
 
