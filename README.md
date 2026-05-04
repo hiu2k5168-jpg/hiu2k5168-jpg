@@ -92,12 +92,11 @@
 
 ```yaml
 Education:
-  - Computer Science Student
   - GPA: 3.66/4.0 (Excellent Academic Performance)
   - Total Credits: 93+ credits completed
   - Notable Courses:
       - Advanced Programming (Python, Java, C#)
-      - Web Development (Full-stack)
+      - Web Development (Front-End)
       - Mobile Application Development
       - Data Structures & Algorithms
       - Machine Learning & AI
@@ -105,27 +104,10 @@ Education:
       - Software Engineering & Design Patterns
 
 Technical Skills:
-  - Full-stack Web Development
+  - Front-end Web Development
   - Mobile App Development
-  - Cloud Architecture & DevOps
   - Machine Learning & Data Science
-  - Agile/Scrum Methodology
 ```
-
-<br/>
-
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-| 🏅 Achievement | 📅 Year | 🎯 Focus Area |
-|:-------------:|:-------:|:-------------:|
-| Dean's List | 2024-2025 | Academic Excellence |
-| Full-Stack Developer | 2024 | Web Development |
-| Cloud Practitioner | 2024 | AWS/GCP |
-| AI/ML Specialist | 2024 | Machine Learning |
-
-</div>
 
 <br/>
 
